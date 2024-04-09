@@ -1,0 +1,12 @@
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\bin\Debug\net6.0\Mango.Azure.ServiceBus.deps.json
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\bin\Debug\net6.0\Mango.Azure.ServiceBus.dll
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\bin\Debug\net6.0\Mango.Azure.ServiceBus.pdb
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.csproj.AssemblyReference.cache
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.AssemblyInfoInputs.cache
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.AssemblyInfo.cs
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.csproj.CoreCompileInputs.cache
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.dll
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\refint\Mango.Azure.ServiceBus.dll
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\Mango.Azure.ServiceBus.pdb
+C:\WebAPI\Villa\Mango\Mango.Azure.ServiceBus\obj\Debug\net6.0\ref\Mango.Azure.ServiceBus.dll

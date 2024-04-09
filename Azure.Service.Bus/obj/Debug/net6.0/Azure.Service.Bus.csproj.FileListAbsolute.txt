@@ -1,0 +1,12 @@
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\bin\Debug\net6.0\Azure.Service.Bus.deps.json
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\bin\Debug\net6.0\Azure.Service.Bus.dll
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\bin\Debug\net6.0\Azure.Service.Bus.pdb
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.csproj.AssemblyReference.cache
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.AssemblyInfoInputs.cache
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.AssemblyInfo.cs
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.csproj.CoreCompileInputs.cache
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.dll
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\refint\Azure.Service.Bus.dll
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\Azure.Service.Bus.pdb
+C:\WebAPI\Villa\Mango\Azure.Service.Bus\obj\Debug\net6.0\ref\Azure.Service.Bus.dll
