@@ -40,7 +40,7 @@ namespace MangoWeb.Controllers
                new SelectListItem() { Text = SD.RoleCustomer, Value = SD.RoleCustomer }
             };
             ViewBag.RoleList = RoleListItem;
-            RegistrationRequestDto registrationRequestDto = new RegistrationRequestDto();
+            RegistrationRequestDto registrationRequestDto = new RegistrationRequestDto() ;
             return View(registrationRequestDto);
         }
 
@@ -53,6 +53,7 @@ namespace MangoWeb.Controllers
                 var LoginResponse = JsonConvert.DeserializeObject<LoginResponseDto>(Convert.ToString(response.Result));
                 await SignInUser(LoginResponse);
                 _tokenProvider.SetToken(LoginResponse.Token);
+
                 return RedirectToAction("Index", "Home");
             }
             ModelState.AddModelError("CustomLoginError",response.title + response.message);

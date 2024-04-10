@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EAEPAF+oGy9lJNWX3WnWiDkPmkbpSPKHXnhclZRXwTYkVjicU4HbogadoIyo4V8dvP/Qvc1hMz5M2e83ssyrPQ==",
+  "dgSpecHash": "geRhqdinQ6wJewAEBZ4AE6k/Ui3d0HMvPfusteSK7TCNO/Ci2905lUwkDQhYJYCFzVx+3meDPVmoRNjdlpxqqA==",
   "success": true,
   "projectFilePath": "C:\\WebAPI\\Villa\\Mango\\Mango.Services.OrderApi\\Mango.Services.OrderApi.csproj",
   "expectedPackageFiles": [

@@ -1282,6 +1282,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Azure.Messaging.ServiceBus": "7.16.2",
+          "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {

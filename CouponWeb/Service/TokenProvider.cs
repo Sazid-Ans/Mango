@@ -10,7 +10,7 @@ namespace MangoWeb.Service
 
         public TokenProvider(IHttpContextAccessor contextAccessor)
         {
-            _contextAccessor = contextAccessor;
+            _contextAccessor = contextAccessor ;
         }
 
         public void ClearToken()
