@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fkr2NTIcpAHv64lKp7W6rffFK8xYSHjheBshmOisgBY=",
+  "Hash": "thlwo64UTERMzRYZx2Du0QIpHAleAsajluLTrX5Uwsc=",
   "Source": "MangoWeb",
   "BasePath": "_content/MangoWeb",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\order.PNG"
+    },
+    {
+      "Identity": "C:\\WebAPI\\Villa\\Mango\\CouponWeb\\wwwroot\\js\\Order.js",
+      "SourceId": "MangoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\WebAPI\\Villa\\Mango\\CouponWeb\\wwwroot\\",
+      "BasePath": "_content/MangoWeb",
+      "RelativePath": "js/Order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Order.js"
     },
     {
       "Identity": "C:\\WebAPI\\Villa\\Mango\\CouponWeb\\wwwroot\\js\\site.js",
